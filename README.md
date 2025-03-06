@@ -1,3 +1,3 @@
 # PythonCourseFinalProject
 Repository for final project in SAL 603
-Unsure of final project so far, likely in basketball or soccer.
+Presentation answering which player had the greatest statistical peak in a season: Michael Jordan, LeBron James, or Kobe Bryant?
